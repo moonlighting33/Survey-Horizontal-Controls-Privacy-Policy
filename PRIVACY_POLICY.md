@@ -26,12 +26,12 @@ You can easily delete all User Provided Data by uninstalling the Application fro
 You may use the standard uninstall processes as may be available as part of your mobile device or via the 
 mobile application marketplace or network.
 
-## Children's Privacy
+# Children's Privacy
 Our Application does not address anyone under the age of 13. We do not knowingly collect personally 
 identifiable information from anyone under the age of 13. We do not use the Application to knowingly 
 solicit data from or market to children under the age of 13.
 
-## Security
+# Security
 We are concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
 
 Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no 
