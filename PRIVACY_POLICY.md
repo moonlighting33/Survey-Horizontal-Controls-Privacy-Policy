@@ -2,7 +2,7 @@
 Last updated: December 01, 2022
 
 This privacy policy governs your use of the software application “Survey Horizontal Controls” 
-(later referred as the/this “Application”) for Android™ mobile devices developed by Ed Adarlo.
+(later referred as the/this “Application”) for Android™ mobile devices.
 
 # What information does the Application obtain and how is it used?
 ## User Provided Information
