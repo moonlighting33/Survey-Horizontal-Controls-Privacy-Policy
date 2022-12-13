@@ -11,8 +11,8 @@ personal information.
 
 ## Automatically Collected Information
 
-The Application does not collect any other information other than runtime monitoring and logging
-of the Application installation origin.
+The Application does not collect any other information other than runtime logs
+of the Application installation source.
 
 The Application does not record any search strings you entered in the Application.
 
