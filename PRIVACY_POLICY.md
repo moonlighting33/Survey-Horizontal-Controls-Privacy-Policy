@@ -1,4 +1,4 @@
-# Survey Horizontal Controls: Privacy Policy
+# Horizontal Controls: Privacy Policy
 Last updated: December 01, 2022
 
 This privacy policy governs your use of the software application “Survey Horizontal Controls” 
