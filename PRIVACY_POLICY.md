@@ -57,7 +57,7 @@ parties. User Provided Data cannot and will never be sold to any other third par
 
 # Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, 
-please contact us via email at: surveytiepoints@tahoo.com
+please contact us via email at: surveytiepoints@gmail.com
 
 
 *The "Android" name, the Android logo, the "Google Play" brand, and other Google trademarks, are property of Google 
