@@ -2,7 +2,7 @@
 Last updated: December 01, 2022
 
 This privacy policy governs your use of the software application “Survey Horizontal Controls” 
-(later referred as the/this “Application”) for Android™ mobile devices.
+(later referred as the/this “Application”) for Android™ and iOS mobile devices.
 
 # What information does the Application obtain and how is it used?
 ## User Provided Information
@@ -27,23 +27,23 @@ You may use the standard uninstall processes as may be available as part of your
 mobile application marketplace or network.
 
 # Children's Privacy
-Our Application does not address anyone under the age of 13. We do not knowingly collect personally 
-identifiable information from anyone under the age of 13. We do not use the Application to knowingly 
+This Application does not address anyone under the age of 13. I do not knowingly collect personally 
+identifiable information from anyone under the age of 13. I do not use the Application to knowingly 
 solicit data from or market to children under the age of 13.
 
 # Security
-We are concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
+I am concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
 
-Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no 
+Please be aware that, although I endeavor to provide reasonable security for information this app process and maintain, no 
 security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
 
 In order to ensure an optimal security, you shall regularly install any Application’s update available from the mobile 
 application marketplace.
 
-We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
+I also advise you to regularly check for any Android/iOS OS update(s) that could be available and to enable automatic updates.
 
 # Changes to this Privacy Policy
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy 
+I may update this Privacy Policy from time to time. I will notify You of any changes by posting the new Privacy 
 Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are 
@@ -57,7 +57,7 @@ parties. User Provided Data cannot and will never be sold to any other third par
 
 # Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, 
-please contact us via email at: surveytiepoints@gmail.com
+please contact me via email at: surveytiepoints@gmail.com
 
 
 *The "Android" name, the Android logo, the "Google Play" brand, and other Google trademarks, are property of Google 
